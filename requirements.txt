@@ -1,0 +1,6 @@
+streamlit
+statsforecast
+pandas
+numpy
+matplotlib
+openpyxl
